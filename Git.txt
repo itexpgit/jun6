@@ -1,0 +1,2 @@
+This is test file
+I'm testing with GIT training
